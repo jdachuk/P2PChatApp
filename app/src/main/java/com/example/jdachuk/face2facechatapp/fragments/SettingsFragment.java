@@ -294,8 +294,7 @@ public class SettingsFragment extends Fragment
 
             String current_uid = mCurrentUser.getUid();
 
-            StorageReference filepath = mImageStorage.child("profile_photos")
-                    .child(current_uid + ".jpg");
+            StorageReference filepath = mImageStorage.child(current_uid + ".jpg");
 
             if (resultUri != null) {
                 filepath.putFile(resultUri)
