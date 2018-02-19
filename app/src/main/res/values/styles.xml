@@ -1,0 +1,17 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MainTextStyle">
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:shadowColor">#50000000</item>
+        <item name="android:shadowRadius">5</item>
+        <item name="android:shadowDy">5</item>
+        <item name="android:shadowDx">0</item>
+    </style>
+
+</resources>

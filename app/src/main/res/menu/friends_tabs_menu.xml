@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/friends_tab"
+        android:title="@string/friends_string"
+        android:icon="@drawable/ic_people_white_24dp"/>
+
+    <item android:id="@+id/requests_tab"
+        android:title="@string/requests_string"
+        android:icon="@drawable/ic_friend_request_white_24dp"/>
+
+</menu>

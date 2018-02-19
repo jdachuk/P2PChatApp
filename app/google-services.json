@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "628643142752",
+    "firebase_url": "https://face2facechatapp.firebaseio.com",
+    "project_id": "face2facechatapp",
+    "storage_bucket": "face2facechatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628643142752:android:b4d94b198e293d33",
+        "android_client_info": {
+          "package_name": "com.example.jdachuk.face2facechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628643142752-qecik3116o4n310le6chp871rvhbi2ik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jdachuk.face2facechatapp",
+            "certificate_hash": "e401c02eaed22587e547f8fdf15a2beb770cc3c5"
+          }
+        },
+        {
+          "client_id": "628643142752-4ncu7t6465epdvu8g4vnfp8ckbtcjbrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-TyAaDMuqbgnhn0lTJFbctJzR5TDYA6s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628643142752-4ncu7t6465epdvu8g4vnfp8ckbtcjbrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

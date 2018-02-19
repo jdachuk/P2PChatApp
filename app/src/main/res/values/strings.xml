@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Face2FaceChatApp</string>
+    <string name="email_hint">Email</string>
+    <string name="app_name_string">P2P Chat</string>
+    <string name="password_hint">Password</string>
+    <string name="log_in_text">Log In</string>
+    <string name="need_new_account_string">Need new account?</string>
+    <string name="reg_back_text">Already have an account?</string>
+    <string name="create_an_account_string">Create an Account</string>
+    <string name="name_hint">Name</string>
+    <string name="chats_string">Chats</string>
+    <string name="friends_string">Friends</string>
+    <string name="settings_string">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="requests_string">Requests</string>
+    <string name="name_placeholder">Display Name</string>
+    <string name="find_new_friend">Find new Friend</string>
+    <string name="search_hint">Search</string>
+    <string name="accept_request_string">Accept Request</string>
+    <string name="decline_request_string">Decline Request</string>
+    <string name="status_placeholder">Hi There, I\'m using P2P ChatApp.</string>
+    <string name="send_friend_request_string">Send Friend Request.</string>
+    <string name="accept_request">Accept Request.</string>
+    <string name="send_message_string">Send Message.</string>
+    <string name="delete_friend_string">Stop Friendship.</string>
+    <string name="cancel_request_string">Cancel Request.</string>
+    <string name="change_status_string">Change Status.</string>
+    <string name="log_out_string">Log Out</string>
+    <string name="send_desc">Send</string>
+    <string name="message_hint">Message ..</string>
+</resources>
